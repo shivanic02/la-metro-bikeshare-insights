@@ -69,7 +69,7 @@ la-metro-bikeshare-insights/
 
 ### 📍 Spatial Patterns
 ![Top Start Stations](visuals/plots/top_start_stations_q2_2025.png)  
-- Downtown LA stations dominate top start points  
+- Downtown LA stations dominate the top start points  
 - Strong connectivity between transit-adjacent stations
 
 **Interactive Maps**  
@@ -100,7 +100,7 @@ la-metro-bikeshare-insights/
 ## 🚀 How to Reproduce
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/<your-username>/la-metro-bikeshare-insights.git
+   git clone https://github.com/shivanic02/la-metro-bikeshare-insights.git
    cd la-metro-bikeshare-insights
    ```
 2. **Install Dependencies**
