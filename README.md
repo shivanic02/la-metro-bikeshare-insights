@@ -1,4 +1,4 @@
-# LA Metro BikeShare Insights — Q2 2025
+# LA Metro BikeShare Insights - Q2 2025
 
 **Geospatial & Temporal Analysis | Data Cleaning | Weather Impact | Interactive Visuals**
 
