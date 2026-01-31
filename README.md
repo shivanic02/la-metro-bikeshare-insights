@@ -7,7 +7,7 @@ By combining **data wrangling**, **exploratory data analysis (EDA)**, **geospati
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 - **Data Cleaning & Validation**  
   - Parsed 123k+ trip records; fixed schema issues, removed invalid or anomalous trips  
   - Calculated actual durations, Haversine distances, and implied speeds  
@@ -55,7 +55,7 @@ la-metro-bikeshare-insights/
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### ⏱ Temporal Patterns
 ![Trips by Hour](visuals/plots/trips_by_hour_q2_2025.png)  
@@ -67,7 +67,7 @@ la-metro-bikeshare-insights/
 
 ---
 
-### 📍 Spatial Patterns
+###  Spatial Patterns
 ![Top Start Stations](visuals/plots/top_start_stations_q2_2025.png)  
 - Downtown LA stations dominate the top start points  
 - Strong connectivity between transit-adjacent stations
@@ -78,7 +78,7 @@ la-metro-bikeshare-insights/
 
 ---
 
-### 🌦 Weather Impact
+###  Weather Impact
 ![Trips vs Temperature](visuals/plots/trips_vs_temp_q2_2025.png)  
 - Optimal ridership around **20–25°C**, steep drop below 15°C or above 30°C  
 
@@ -87,7 +87,7 @@ la-metro-bikeshare-insights/
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Folium, Kepler.gl)  
 - **Data Wrangling:** datetime parsing, anomaly detection, geospatial calculations  
 - **Visualization:** static & interactive mapping, temporal charts, weather overlays  
@@ -97,7 +97,7 @@ la-metro-bikeshare-insights/
 
 ---
 
-## 🚀 How to Reproduce
+##  How to Reproduce
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/shivanic02/la-metro-bikeshare-insights.git
@@ -119,7 +119,7 @@ la-metro-bikeshare-insights/
 
 ---
 
-## 📈 Business Value
+##  Business Value
 
 These insights can help:
 
